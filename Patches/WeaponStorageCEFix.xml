@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>*/ThingDef[defName = "WeaponStorage"]/building/fixedStorageSettings</xpath>
+		<value>
+			<fixedStorageSettings>
+				<filter>
+					<categories>
+						<li>Weapons</li>
+					</categories>
+					<exceptedCategories>
+						<li>Ammo</li>
+						<li>WeaponsTurrets</li>
+					</exceptedCategories>
+					<thingDefs />
+				</filter>
+			</fixedStorageSettings>
+		</value>
+	</Operation>
+	
+</Patch>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Weapon Storage - CE Patch</name>
+		<author>Nyx</author>
+		<url></url>
+		<targetVersion>0.18.1722</targetVersion>
+		<description>Simple fix to remove the Ammo and Turrets from the Weapon Storage box, preventing pawns dumping bullets all over the floor around the box when CE is installed.</description>
+</ModMetaData>
