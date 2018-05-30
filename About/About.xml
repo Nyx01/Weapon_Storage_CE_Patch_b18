@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<ModMetaData>
-		<name>Weapon Storage - CE Patch</name>
+		<name>Weapon Storage - CE Patch B18</name>
 		<author>Nyx</author>
-		<url></url>
+		<url>https://steamcommunity.com/sharedfiles/filedetails/?id=1381850455</url>
 		<targetVersion>0.18.1722</targetVersion>
-		<description>Simple fix to remove the Ammo and Turrets from the Weapon Storage box, preventing pawns dumping bullets all over the floor around the box when CE is installed.</description>
+		<description>
+		
+	
+***********************
+	Requires
+	
+Combat Extended B18
+[KV] Weapon Storage - B18
+***********************
+		
+		A simple fix to remove the Ammo and Turrets from the Weapon Storage box, preventing pawns dumping bullets all over the floor around the box, and the clean up loop that goes with it, when CE is installed.
+		
+		</description>
 </ModMetaData>
